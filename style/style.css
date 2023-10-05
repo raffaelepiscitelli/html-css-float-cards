@@ -1,0 +1,19 @@
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+}
