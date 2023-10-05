@@ -7,13 +7,68 @@
 
 body {
     background-color: white;
+    text-align: center;
+
 }
+
+ main {
+    width: 800px;
+ }
 
 h1 {
-    text-align: center;
     padding-top: 50px;
+    text-align: center;
 }
 
-p {
-    text-align: center;
+.introduzione {
+    padding-top: 70px;
+}
+
+.designer {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
+}
+
+.front-end-dev {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
+}
+
+
+.back-end-dev {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
+}
+
+.seo {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
+}
+
+.projct-manager {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
+}
+
+.analyst {
+    background-color: #0F0E17;
+    height: 100px;
+    width: 250px;
+    border: 2px solid magenta;
+    float: left;
 }
