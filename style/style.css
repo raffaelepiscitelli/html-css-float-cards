@@ -8,16 +8,19 @@
 body {
     background-color: white;
     text-align: center;
+    font-family: 'Fredoka', sans-serif;
 }
 
  main {
     margin-left: 15%;
     margin-right: 15%;
+    line-height: 25px;
  }
 
 h1 {
     padding-top: 40px;
     text-align: center;
+    color: #D9306E;
 }
 
 .introduzione {
@@ -31,57 +34,37 @@ h1 {
     clear: both;
 }
 
-.designer {
+.profilo {
     background-color: #0F0E17;
     height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
+    width: 30%;
     float: left;
     margin: 5px;
 }
 
-.front-end-dev {
-    background-color: #0F0E17;
-    height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
+.avatar {
     float: left;
-    margin: 5px;
+    height: 100%;
 }
 
-
-.back-end-dev {
-    background-color: #0F0E17;
-    height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
+.informazioni {
+    text-align: left;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    padding-left: 10px;
     float: left;
-    margin: 5px;
 }
 
-.seo {
-    background-color: #0F0E17;
-    height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
-    float: left;
-    margin: 5px;
+h2 {
+    color: white;
+    font-size: medium;
 }
 
-.projct-manager {
-    background-color: #0F0E17;
-    height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
-    float: left;
-    margin: 5px;
+.professione {
+    color: white;
 }
 
-.analyst {
-    background-color: #0F0E17;
-    height: 100px;
-    width: 25%;
-    border: 2px solid magenta;
-    float: left;
-    margin: 5px;
+.email {
+    font-size: smaller;
+    color: #12B9FB;
 }
